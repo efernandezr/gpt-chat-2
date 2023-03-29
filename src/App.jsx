@@ -86,7 +86,7 @@ function App() {
 
   return (
     <div className="App">
-      <div style={{ position:"relative", height: "800px", width: "500px"  }}>
+      <div style={{ position:"relative"}}>
         <MainContainer responsive = {true}>
           <ChatContainer>       
             <MessageList 
